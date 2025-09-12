@@ -1,0 +1,23 @@
+const sampleVideos = [
+    {
+    id: 1,
+    src: "https://ik.imagekit.io/zx3a0hygj/63c74d91-8ac0-40d0-b717-12564a5e2c82_LqUmaYmef",
+    description: "Delicious biryani from John's Kitchen — freshly cooked, aromatic spices and tender meat. Order now and enjoy a home-style meal."
+  },
+
+  {
+    id: 1,
+    src: "https://www.w3schools.com/html/mov_bbb.mp4",
+    description: "Delicious biryani from John's Kitchen — freshly cooked, aromatic spices and tender meat. Order now and enjoy a home-style meal."
+  },
+  {
+    id: 2,
+    src: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    description: "Handmade pasta, served with seasonal vegetables and a light sauce. Perfect for lunch or dinner."
+  },
+  {
+    id: 3,
+    src: "https://www.w3schools.com/html/movie.mp4",
+    description: "Refreshing mango lassi made with ripe mangoes and natural yogurt — sweet and creamy."
+  }
+];
