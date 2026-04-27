@@ -36,7 +36,7 @@ async function registerUser(req, res) {
         user: {
             _id: user._id,
             email: user.email,
-            fullName: user.fullName
+            fullName: user.fullName 
         }
     })
 
