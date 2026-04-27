@@ -46,7 +46,7 @@ const ChooseRegister = () => {
       
       {/* Brand - Outside Card */}
       <h1 className="text-8xl font-extrabold text-white mb-15 drop-shadow-lg tracking-wide text-center">
-        🍴  Food Reel
+        🍴 Zomato Food Reel
       </h1>
 
       {/* Auth Card */}
